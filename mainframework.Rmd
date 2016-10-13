@@ -16,7 +16,6 @@ library(pscl)
 library(gridExtra)
 library(stargazer)
 library (dplyr)
-xxxxx lkjk
 ```
 
 ###Introduction(Marnelia):  
