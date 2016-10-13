@@ -8,8 +8,7 @@ output: pdf_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-test .
+test   .
 
 
 Assuming we are a company focused on online dating app and website, we want to make some business strategy and decision based on the data we have collected.
