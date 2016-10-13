@@ -36,7 +36,7 @@ how to tell advertisers that our users are their target audience
 (1) app users' employment status => more potential buyer (Mei & Zhewei) 
 (2) relationship between jobsearching and online dating ( if we can use online dating to predict users' behavior of job searching) (Mei & Zhewei) 
 
-
+dflasfja;k
 
 ```{r}
 
