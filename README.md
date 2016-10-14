@@ -1,4 +1,3 @@
 # conflicttest
 conflicttest
-2
-final
+1
